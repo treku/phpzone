@@ -38,7 +38,5 @@
         }
     },
 
-    "minimum-stability": "alpha",
-
     "bin": ["bin/phpzone"]
 }
